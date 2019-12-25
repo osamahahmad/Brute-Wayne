@@ -1,5 +1,5 @@
 <?php
-    /** Brute Wayne 1.0 */
+    /** Brute Wayne 1.0.0 */
 
     // Set your password here.
     $password = 'password';
